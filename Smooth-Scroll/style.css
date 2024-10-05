@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2 {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img {
+  height: 600px;
+  width: 1200px;
+}
